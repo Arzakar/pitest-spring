@@ -24,3 +24,4 @@ org.pitest.mutationtest.engine.gregor.mutators.experimental.RemoveIncrementsMuta
 org.pitest.mutationtest.engine.gregor.mutators.experimental.SwitchMutator
 org.pitest.mutationtest.engine.gregor.mutators.experimental.BigDecimalMutator
 org.pitest.mutationtest.engine.gregor.mutators.experimental.BigIntegerMutator
+org.pitest.mutationtest.engine.gregor.mutators.experimental.HttpStatusMutator
